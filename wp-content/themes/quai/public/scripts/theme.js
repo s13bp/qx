@@ -3583,7 +3583,7 @@
                         powderblue: 11591910,
                         purple: 8388736,
                         rebeccapurple: 6697881,
-                        red: 16711680,
+                        red: 15631086,
                         rosybrown: 12357519,
                         royalblue: 4286945,
                         saddlebrown: 9127187,
